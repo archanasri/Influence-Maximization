@@ -1,4 +1,4 @@
-# InfluenceMaximization
+# Influence Maximization
 
 The python script project.py is the modified version of Independent Cascade model and the the python script vanilla.py is the vanilla implementation of Indepenent Cascade model.
 
